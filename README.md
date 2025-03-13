@@ -1,7 +1,7 @@
 # Project Monkeypox Detection
 
 ## Overview
-This repository is part of a collaborative project by Group 50 in 11-785 Introduction to Deep Learning at CMU-Africa. Our project aims to replicate and enhance the model described in the paper "Image Data Collection and Implementation of Deep Learning-Based Model in Detecting Monkeypox Disease Using Modified VGG16."
+This repository is part of a collaborative project by Group 50 in 11-785 Introduction to Deep Learning Course at CMU-Africa. Our project aims to replicate and enhance the model described in the paper "Image Data Collection and Implementation of Deep Learning-Based Model in Detecting Monkeypox Disease Using Modified VGG16."
 
 ## Repository Structure
 - `MAIN-PAPER-REVISED`: The original paper (Image Data Collection and Implementation of Deep Learning-Based Model in Detecting Monkeypox Disease Using Modified VGG16) we are building upon.
