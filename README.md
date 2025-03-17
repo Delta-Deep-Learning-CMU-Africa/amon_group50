@@ -25,4 +25,4 @@ We are exploring improvements to the VGG16 architecture by adjusting layers and 
 - **Group 50 Members** - dnyaboke@andrew.cmu.edu, tbelekol@andrew.cmu.edu, and aopaluwa@andrew.cmu.edu
 
 ## Acknowledgments
-Thanks to the course instructors and TAs especially our TA group mentor (aissah@andrew.cmu.edu) of 11-785 Introduction to Deep Learning course at CMU-Africa for their guidance and support throughout this project.
+Thanks to the course instructors and TAs especially our TA group mentor (aissah@andrew.cmu.edu) of 11-785 Introduction to Deep Learning course at CMU-Africa for his guidance and support throughout this project.
