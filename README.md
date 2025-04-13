@@ -7,7 +7,7 @@ This repository is part of a collaborative project by Group 50 in 11-785 Introdu
 - `MAIN-PAPER-REVISED`: We are building upon the original paper (Image Data Collection and Implementation of Deep Learning-Based Model in Detecting Monkeypox Disease Using Modified VGG16).
 - `project-monkeypox-detection-1-amuhairw.ipynb`: Jupyter notebook containing all code for my first experiment to replicate the results reported in the paper for our project.
 - `project-monkeypox-detection-2-amuhairw.ipynb`: Jupyter notebook containing all code for my second experiment to replicate the results reported in the paper for our project.
-- - `amuhairw_3.ipynb`: Jupyter notebook containing all code for the third experiment to replicate the results reported in the paper for our project (experiment implemented by dnyaboke@andrew.cmu.edu). This is the experiment that we decided to consider as a replication of the paper.
+- `amuhairw_3.ipynb`: Jupyter notebook containing all code for the third experiment to replicate the results reported in the paper for our project (experiment implemented by dnyaboke@andrew.cmu.edu). This is the experiment that we decided to consider as a replication of the paper.
 
 ## Project Objective
 We aim to replicate the study's findings and improve the diagnostic accuracy of the Modified VGG16 model used to detect Monkeypox from dermatological images. We aim to refine the model using advanced machine-learning techniques.
